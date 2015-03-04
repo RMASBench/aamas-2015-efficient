@@ -1,0 +1,4 @@
+results/all.cache
+scripts/results.p
+scripts/*.pyc
+scripts/.ipynb_checkpoints
